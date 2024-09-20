@@ -1,0 +1,4 @@
+[24-Jul-2023 14:08:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/seekosoft/adbanao.seekosoft.com/laravel/app/Http/Controllers/Gamesetting.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/seekosoft/adbanao.seekosoft.com/laravel/app/Http/Controllers/Gamesetting.php on line 28
